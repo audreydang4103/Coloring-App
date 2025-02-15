@@ -1,11 +1,8 @@
 # PreWork - Coloring App
 
 
-Submitted by: Audrey Dang
-
 Coloring is an app that can change different colors for background.
 
-Time spent: 1 hours spent in total
 
 ## Required Features
 
